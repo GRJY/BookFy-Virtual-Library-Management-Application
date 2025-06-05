@@ -28,11 +28,9 @@ Explore BookFy's features at [https://bookfy.com.tr](https://bookfy.com.tr), inc
 
 *Note*: For a demo account or guided tour, contact me at akbulutgiray@gmail.com.
 
-## Screenshots
-| Home Page | Library Details | User Profile |
-|-----------|-----------------|--------------|
-| ![Home Page](screenshots/home.png) | ![Library Details](screenshots/librarydetail.png) | ![User Profile](screenshots/profile.png) |
-
+| Home Page | Library Details | Profile Page | Search Results |
+|-----------|-----------------|--------------|----------------|
+| ![Home Page](home.png) | ![Library Details](librarydetail.png) | ![Profile Page](profile.png) | ![Search Results](search.png) |
 *Visit [https://bookfy.com.tr](https://bookfy.com.tr) for the full interactive experience.*
 
 ## Code Sample
