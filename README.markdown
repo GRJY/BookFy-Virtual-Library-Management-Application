@@ -26,7 +26,6 @@ Explore BookFy's features at [https://bookfy.com.tr](https://bookfy.com.tr), inc
 - **Library Details**: Browse books in a library with details like genre, page count, and cover images from OpenLibrary.
 - **Profile Page**: Manage libraries, update profile details, and connect with other readers.
 
-*Note*: For a demo account or guided tour, contact me at akbulutgiray@gmail.com.
 
 | Home Page | Library Details | Profile Page | Search Results |
 |-----------|-----------------|--------------|----------------|
