@@ -1,7 +1,7 @@
 # BookFy - Virtual Library Management Application
 
 ## Overview
-BookFy is a web application crafted to empower book enthusiasts to manage their physical book collections digitally. Developed as a capstone project at Beykent University, BookFy provides an intuitive platform for organizing books, tracking reading progress, and fostering community engagement through social features. With seamless integration of the OpenLibrary API, dynamic reading statistics, and a responsive design, BookFy enhances the reading experience for users worldwide. Experience the live application at [https://bookfy.com.tr](https://bookfy.com.tr).
+BookFy is a web application crafted to empower book enthusiasts to manage their physical book collections digitally. Developed as a capstone project at Beykent University, BookFy provides an intuitive platform for organizing books, tracking reading progress, and fostering community engagement through social features. With seamless integration of the OpenLibrary API, dynamic reading statistics, and a responsive design, BookFy enhances the reading experience for users worldwide.
 
 ## Features
 - **Book Management**: Create custom libraries, add/edit/delete books, and categorize them by genre, author, or reading status ("Read", "Reading", "To Read").
@@ -53,8 +53,6 @@ new Chart(ctx, {
 
 This snippet highlights the use of Chart.js for visualizing user reading habits, with data dynamically fetched from the backend.
 
-## Installation
-BookFy is hosted at [https://bookfy.com.tr](https://bookfy.com.tr), requiring no local installation for general use. For developers interested in setting up a local instance or accessing the source code, please contact me at akbulutgiray@gmail.com.
 
 **Local Setup (if source code is provided):**
 1. **Clone the Repository** (contact for access):
@@ -102,7 +100,6 @@ The project follows a modular structure:
   - `profile.php` - User profile and library administration.
 - `.htaccess` - URL rewriting for clean URLs.
 
-*Note*: Source code is not included in this repository. Visit [https://bookfy.com.tr](https://bookfy.com.tr) or contact for details.
 
 ## Results
 - Delivered a responsive web application with dynamic features and a modern UI.
@@ -129,5 +126,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For questions, feedback, or collaboration opportunities, reach out to me at:
 - **Email**: akbulutgiray@gmail.com
-- **LinkedIn**: [Giray Akbulut](https://www.linkedin.com/in/giray-akbulut) *(Update with your actual profile)*
+- **LinkedIn**: [Giray Akbulut]([https://www.linkedin.com/in/giray-akbulut](https://www.linkedin.com/in/giray-akbulut-33a695219/))
 - **Portfolio**: [https://bookfy.com.tr](https://bookfy.com.tr)
