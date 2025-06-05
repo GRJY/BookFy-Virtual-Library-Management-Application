@@ -112,9 +112,6 @@ The project follows a modular structure:
 - Implement machine learning for personalized book recommendations.
 - Enhance social features with book reviews, ratings, and discussion forums.
 
-## Important Notice
-This repository is for portfolio purposes only and does not contain the full source code. To explore the application, visit [https://bookfy.com.tr](https://bookfy.com.tr). For source code access or inquiries, contact me at akbulutgiray@gmail.com. Please do not attempt to reproduce or distribute without permission.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
