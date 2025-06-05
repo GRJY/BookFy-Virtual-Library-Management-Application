@@ -31,7 +31,7 @@ Explore BookFy's features at [https://bookfy.com.tr](https://bookfy.com.tr), inc
 | Home Page | Library Details | Profile Page | Search Results |
 |-----------|-----------------|--------------|----------------|
 | ![Home Page](home.png) | ![Library Details](librarydetail.png) | ![Profile Page](profile.png) | ![Search Results](search.png) |
-*Visit [https://bookfy.com.tr](https://bookfy.com.tr) for the full interactive experience.*
+
 
 ## Code Sample
 Below is an example of the reading statistics visualization implemented in the home page using Chart.js, demonstrating dynamic data integration with PHP:
