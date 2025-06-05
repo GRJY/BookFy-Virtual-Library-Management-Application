@@ -122,5 +122,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For questions, feedback, or collaboration opportunities, reach out to me at:
 - **Email**: akbulutgiray@gmail.com
-- **LinkedIn**: [Giray Akbulut]([https://www.linkedin.com/in/giray-akbulut](https://www.linkedin.com/in/giray-akbulut-33a695219/))
+- **LinkedIn**: [Giray Akbulut](https://www.linkedin.com/in/giray-akbulut-33a695219/)
 - **Portfolio**: [https://bookfy.com.tr](https://bookfy.com.tr)
